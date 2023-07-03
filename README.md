@@ -1,4 +1,5 @@
 # OIBSIP
 
 Extract the .rar file.
-Run 
+
+Run "calculator.html" file
