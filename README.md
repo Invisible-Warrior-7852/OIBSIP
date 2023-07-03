@@ -2,4 +2,4 @@
 
 Extract the .rar file.
 
-Run "calculator.html" file
+Run ".html" file
